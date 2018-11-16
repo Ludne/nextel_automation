@@ -1,4 +1,4 @@
-# python_nextel
+# Nextel Automation
 
 ## Requirements:
 - Python 3.7
